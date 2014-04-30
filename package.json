@@ -1,0 +1,19 @@
+{
+  "name": "psychic-ninja",
+  "version": "0.0.0",
+  "description": "Testing other Require.js stuff...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/psychic-ninja.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/psychic-ninja/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/psychic-ninja"
+}
