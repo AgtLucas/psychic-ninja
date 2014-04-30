@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/psychic-ninja/issues"
   },
-  "homepage": "https://github.com/AgtLucas/psychic-ninja"
+  "homepage": "https://github.com/AgtLucas/psychic-ninja",
+  "devDependencies": {
+    "load-grunt-tasks": "^0.4.0",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt": "^0.4.4"
+  }
 }
