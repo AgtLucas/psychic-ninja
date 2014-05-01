@@ -1,2 +1,1 @@
-psychic-ninja
-=============
+Psychic Ninja!
